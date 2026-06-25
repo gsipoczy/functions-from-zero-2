@@ -1,3 +1,4 @@
 # functions-from-zero-2
 Repo to learn functions
-Now local
+
+### First save to git
