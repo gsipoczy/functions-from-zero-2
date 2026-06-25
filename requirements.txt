@@ -1,3 +1,4 @@
+anthropic==0.112.0
 astroid==4.0.4
 asttokens==3.0.1
 beautifulsoup4==4.15.0
@@ -31,11 +32,13 @@ prompt_toolkit==3.0.52
 psutil==7.2.2
 ptyprocess==0.7.0
 pure_eval==0.2.3
+pypdf==6.14.2
 Pygments==2.20.0
 pylint==4.0.6
 pytest==9.1.1
 pytest-cov==7.1.0
 pytokens==0.4.1
+python-dotenv==1.2.2
 regex==2026.5.9
 requests==2.34.2
 soupsieve==2.8.4
